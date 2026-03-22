@@ -6,7 +6,7 @@
 
 <p align="center">
   🕒 Bangkok Time (Live) <br>
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Time&query=%24.dateTime&url=http://worldtimeapi.org/api/timezone/Asia/Bangkok"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Bangkok%20Time&query=%24.datetime&url=https://worldtimeapi.org/api/timezone/Asia/Bangkok"/>
 </p>
 
 ---
