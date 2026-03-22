@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=500&size=28&pause=1000&lines=🌸+Ohayou..+🌸;Welcome+to+my+Cyber+World;CTF+Player+Mode+ON+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=500&size=28&pause=1000&lines=🌸+Ohayou..+🌸" />
 </p>
 
 <p align="center">
