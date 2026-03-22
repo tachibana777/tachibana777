@@ -4,6 +4,11 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
 </p>
 
+<p align="center">
+  🕒 Bangkok Time (Live) <br>
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Time&query=%24.dateTime&url=http://worldtimeapi.org/api/timezone/Asia/Bangkok"/>
+</p>
+
 ---
 
 ### 👋 About Me
@@ -22,6 +27,11 @@
 
 ### 📊 GitHub Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=tachibana777&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Now Playing (Anime Mood)
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&lines=Welcome+to+my+Cyber+World;CTF+Player+Mode+ON;Anime+%2B+Hacking+%3D+❤️" />
 
 ---
 
