@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNocDAwMWN6MGZ1NnBheHhqaDl3Y2NudXZjeHd6bjhub3NsMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j2NpGCMRJwlKddDT1b/giphy.gif" width="300"/>
 </p>
----
 
 ### About Me
 - Cyber Security / CTF
