@@ -1,8 +1,4 @@
-<h1 align="center">🌸 Welcome to My Profile 🌸</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-</p>
+<h1 align="center">🌸 Ohayou.. 🌸</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
@@ -13,8 +9,6 @@
 ### 👋 About Me
 - 💻 Cyber Security / CTF
 - 🔥 Penetration Testing
-- 🧠 Learning Hacking & Programming
-- 🧠 SOC
 
 ---
 
@@ -39,13 +33,11 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ---
-### ⚡ OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📊 OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-### 📊 GitHub Stats
 
 ---
 
