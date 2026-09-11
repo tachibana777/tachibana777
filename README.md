@@ -94,6 +94,6 @@ Cannot determine the answer.
 
 <sub><i>Repetition until it becomes technique.</i></sub>
 <br/>
-<sub>Kritsada Hongpatsa · Still sharpening · พิษณุโลก City, TH</sub>
+<sub>Kritsada Hongpatsa · Still sharpening · phitsanulok City, TH</sub>
 
 </div>
