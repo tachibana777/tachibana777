@@ -28,7 +28,7 @@
 ---
 
 ## HEAVENLY RESTRICTION
-I’m a Penetration Tester and Computer Engineering student focused on Offensive Security and Application Security. My interests include Web Application Security, API Security, Vulnerability Assessment, Reconnaissance, Exploitation, and Security Testing. I enjoy breaking down how systems work, identifying security weaknesses, understanding their root causes, and finding practical ways to improve them. I regularly practice through CTFs, security labs, and hands-on penetration testing environments to strengthen my offensive security skills. My long-term goal is to become a well-rounded Penetration Tester specializing in Web, API, and Mobile Security, with a strong understanding of networks, backend systems, and software development.
+I’m a  Computer Engineering student focused Penetration Tester on Offensive Security and Application Security. My interests include Web Application Security, API Security, Vulnerability Assessment, Reconnaissance, Exploitation, and Security Testing. I enjoy breaking down how systems work, identifying security weaknesses, understanding their root causes, and finding practical ways to improve them. I regularly practice through CTFs, security labs, and hands-on penetration testing environments to strengthen my offensive security skills. My long-term goal is to become a well-rounded Penetration Tester specializing in Web, API, and Mobile Security, with a strong understanding of networks, backend systems, and software development.
 
 <br/>
 
