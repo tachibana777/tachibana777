@@ -61,7 +61,7 @@ Cannot determine the answer.
 
 **ALSO IN THE ARSENAL**
 <br/>
-<sub>Burp Suite · Wireshark · SQLmap · Ghidra · JADX · Metasploit · Exploit-DB</sub>
+<sub>Burp Suite · Wireshark · SQLmap · Ghidra · JADX · Metasploit · Exploit-DB · OWASP · SonarQube</sub>
 
 </div>
 
